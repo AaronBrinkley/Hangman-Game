@@ -3,15 +3,13 @@
 	background: black;
 	color: white;
 	text-align: center;
-	margin-top: 80px;
 
 }
 
 body {
-	background-image: url(https://c1.staticflickr.com/5/4081/4918176585_72908371ec_b.jpg);
+	background-image: url(https://washington-org.s3.amazonaws.com/s3fs-public/hero-image-dc-aerial-photo-credit-john-sonderman.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
-
 }
 
 h1 {
